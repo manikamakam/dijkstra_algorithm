@@ -1,16 +1,16 @@
 # dijkstra-s_algorithm
 Implementation of Dijkstra's algorithm in python
 
-##Author
+## Author
 
 1.Sri Manika Makam
 2.Sai Praveen Bhamidipati
 
-##Overview
+## Overview
 
 Implemented the Dijkstra algorithm for a point robot and rigid robot.
 
-##Dependencies
+## Dependencies
 
 1.numpy library
 2.collections library
@@ -22,14 +22,14 @@ Implemented the Dijkstra algorithm for a point robot and rigid robot.
 8.Python 2.7
 9.ubuntu 16.04
 
-##Input format
+## Input format
+ 
 
-
-##Instructions to run
+## Instructions to run
 
 Go to the directory where code is present and run the following command:
 
 
   
-##Output files
+## Output files
 
