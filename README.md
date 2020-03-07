@@ -34,7 +34,7 @@ If user_input is 1, then user is allowed to give inputs of his wish. If user_inp
 
 If animation is 0, animation of exploration nodes is not shown. If 1, animation is shown. 
 
-2. 1. For rigid robot, the inputs are coordinates of start node and goal node taken as int; robot radius and clearance taken as float. 
+2. For rigid robot, the inputs are coordinates of start node and goal node taken as int; robot radius and clearance taken as float. 
 
 Go to the directory where code is present and run the following command for rigid robot
 
