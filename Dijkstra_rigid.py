@@ -298,8 +298,8 @@ def main():
         start_y = 5
         goal_x = 295
         goal_y = 195
-        robot_radius = float(4)
-        clearance = float(4)
+        robot_radius = float(2)
+        clearance = float(2)
 
     start_time = time.time()
     start_node = (start_x, start_y)
